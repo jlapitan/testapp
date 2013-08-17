@@ -1,9 +1,9 @@
 {
   "name": "jqueryMobile",
   "description": "My first firefox os app",
-  "launch_path": "/index.html",
+  "launch_path": "/testapp/index.html",
   "icons": {
-    "128": "/banana.png"
+    "128": "/testapp/banana.png"
   },
   "developer": {
     "name": "joell",
