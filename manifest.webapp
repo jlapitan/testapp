@@ -1,0 +1,13 @@
+{
+  "name": "jqueryMobile",
+  "description": "My first firefox os app",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/banana.png"
+  },
+  "developer": {
+    "name": "joell",
+    "url": "http://jlapitan.com"
+  },
+  "default_locale": "en"
+}
